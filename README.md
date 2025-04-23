@@ -1,6 +1,6 @@
 # ☕ java-drops
 
-> [!NOTaE]
+> [!NOTE]
 > Repositório dedicado à prática diária da linguagem Java.
 > 
 > Cada "drop" 💧 representa um pequeno desafio, exercício ou conceito fundamental da linguagem de programação Java e os fundamentos da Programação Orientada à Objeto.
