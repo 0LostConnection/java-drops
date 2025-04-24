@@ -28,4 +28,4 @@ Cada pasta contém um arquivo `.java` com o exercício do dia.
 
 | Dia  | Tema                                | Acesso                    |
 |------|-------------------------------------|---------------------------|
-| 01   |                                     | [`dia01`](./dia01)        |
+| 01   | Familiarização com a Sintaxe        | [`dia01`](./dia01)        |
